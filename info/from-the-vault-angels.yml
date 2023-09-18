@@ -1,0 +1,19 @@
+---
+object: set
+id: bd5cb4e5-8090-4bd9-bcd4-89741056689b
+code: v15
+mtgo_code: v15
+arena_code: v15
+tcgplayer_id: 1577
+name: 'From the Vault: Angels'
+uri: https://api.scryfall.com/sets/bd5cb4e5-8090-4bd9-bcd4-89741056689b
+scryfall_uri: https://scryfall.com/sets/v15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av15&unique=prints
+released_at: '2015-08-21'
+set_type: from_the_vault
+card_count: 15
+printed_size: 15
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/v15.svg?1694404800
